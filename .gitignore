@@ -1,0 +1,15 @@
+# Toolchain ARM (beaucoup trop lourde pour Git/GitHub)
+gcc-linaro-*/
+
+# Archives et sujets fournis par le prof
+*.tar.xz
+*.tar.gz
+*.tar.bz2
+*.pdf
+
+# Fichiers générés par la compilation
+*.o
+jeux_plus_moins_*
+jeux_du_plus_moins_*
+jeux
+jeux_statique
