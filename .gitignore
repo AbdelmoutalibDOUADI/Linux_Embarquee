@@ -11,5 +11,3 @@ gcc-linaro-*/
 *.o
 jeux_plus_moins_*
 jeux_du_plus_moins_*
-jeux
-jeux_statique
