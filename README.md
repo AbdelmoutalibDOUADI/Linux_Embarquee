@@ -50,9 +50,6 @@ Chaîne de développement complète autour du projet C « jeu du plus/moins ».
   l'aide de `file`, `strings`, `objdump`, GDB et **Ghidra** (scénarios : chaîne en
   clair, construction octet par octet en x86 et ARM, offuscation).
 
-**Compte rendu :** dépôt dédié
-[rapport_TP1_LinuxEmbarquee](https://github.com/AbdelmoutalibDOUADI/rapport_TP1_LinuxEmbarquee).
-
 ---
 
 ## TP2 — Création de sa propre distribution
