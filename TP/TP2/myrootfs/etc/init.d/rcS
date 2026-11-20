@@ -1,5 +1,5 @@
-# !/bin/sh
+#!/bin/sh
 mount -a
 echo
-echo Bienvenue sur mon Linux
+echo "Bienvenue sur mon Linux"
 echo
