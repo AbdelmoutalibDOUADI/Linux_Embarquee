@@ -11,3 +11,13 @@ gcc-linaro-*/
 *.o
 jeux_plus_moins_*
 jeux_du_plus_moins_*
+# ---- TP2 : sources et artefacts volumineux (NE PAS pousser) ----
+TP/TP2/linux-5.4/
+TP/TP2/busybox-1.36/
+TP/TP2/jeux_test/
+# rootfs : garder /etc (tes configs), ignorer binaires et bibliothèques
+TP/TP2/myrootfs/bin/
+TP/TP2/myrootfs/sbin/
+TP/TP2/myrootfs/usr/
+TP/TP2/myrootfs/lib/
+TP/TP2/myrootfs/linuxrc

@@ -1,0 +1,119 @@
+lib/
+├── debug
+│   ├── libstdc++.a
+│   ├── libstdc++fs.a
+│   ├── libstdc++.so -> libstdc++.so.6.0.30
+│   ├── libstdc++.so.6 -> libstdc++.so.6.0.30
+│   ├── libstdc++.so.6.0.30
+│   └── libstdc++.so.6.0.30-gdb.py
+├── ld-linux-armhf.so.3
+├── ldscripts
+│   ├── armelfb_linux_eabi.x
+│   ├── armelfb_linux_eabi.xbn
+│   ├── armelfb_linux_eabi.xc
+│   ├── armelfb_linux_eabi.xce
+│   ├── armelfb_linux_eabi.xd
+│   ├── armelfb_linux_eabi.xdc
+│   ├── armelfb_linux_eabi.xdce
+│   ├── armelfb_linux_eabi.xde
+│   ├── armelfb_linux_eabi.xdw
+│   ├── armelfb_linux_eabi.xdwe
+│   ├── armelfb_linux_eabi.xe
+│   ├── armelfb_linux_eabi.xn
+│   ├── armelfb_linux_eabi.xr
+│   ├── armelfb_linux_eabi.xs
+│   ├── armelfb_linux_eabi.xsc
+│   ├── armelfb_linux_eabi.xsce
+│   ├── armelfb_linux_eabi.xse
+│   ├── armelfb_linux_eabi.xsw
+│   ├── armelfb_linux_eabi.xswe
+│   ├── armelfb_linux_eabi.xu
+│   ├── armelfb_linux_eabi.xw
+│   ├── armelfb_linux_eabi.xwe
+│   ├── armelf_linux_eabi.x
+│   ├── armelf_linux_eabi.xbn
+│   ├── armelf_linux_eabi.xc
+│   ├── armelf_linux_eabi.xce
+│   ├── armelf_linux_eabi.xd
+│   ├── armelf_linux_eabi.xdc
+│   ├── armelf_linux_eabi.xdce
+│   ├── armelf_linux_eabi.xde
+│   ├── armelf_linux_eabi.xdw
+│   ├── armelf_linux_eabi.xdwe
+│   ├── armelf_linux_eabi.xe
+│   ├── armelf_linux_eabi.xn
+│   ├── armelf_linux_eabi.xr
+│   ├── armelf_linux_eabi.xs
+│   ├── armelf_linux_eabi.xsc
+│   ├── armelf_linux_eabi.xsce
+│   ├── armelf_linux_eabi.xse
+│   ├── armelf_linux_eabi.xsw
+│   ├── armelf_linux_eabi.xswe
+│   ├── armelf_linux_eabi.xu
+│   ├── armelf_linux_eabi.xw
+│   └── armelf_linux_eabi.xwe
+├── libanl.so.1
+├── libasan.a
+├── libasan_preinit.o
+├── libasan.so -> libasan.so.8.0.0
+├── libasan.so.8 -> libasan.so.8.0.0
+├── libasan.so.8.0.0
+├── libatomic.a
+├── libatomic.so -> libatomic.so.1.2.0
+├── libatomic.so.1 -> libatomic.so.1.2.0
+├── libatomic.so.1.2.0
+├── libBrokenLocale.so.1
+├── libc_malloc_debug.so.0
+├── libcrypt.so.1
+├── libc.so.6
+├── libdl.so.2
+├── libgcc_s.so
+├── libgcc_s.so.1
+├── libgfortran.a
+├── libgfortran.so -> libgfortran.so.5.0.0
+├── libgfortran.so.5 -> libgfortran.so.5.0.0
+├── libgfortran.so.5.0.0
+├── libgfortran.spec
+├── libgomp.a
+├── libgomp.so -> libgomp.so.1.0.0
+├── libgomp.so.1 -> libgomp.so.1.0.0
+├── libgomp.so.1.0.0
+├── libgomp.spec
+├── libitm.a
+├── libitm.so -> libitm.so.1.0.0
+├── libitm.so.1 -> libitm.so.1.0.0
+├── libitm.so.1.0.0
+├── libitm.spec
+├── libmemusage.so
+├── libm.so.6
+├── libnsl.so.1
+├── libnss_compat.so.2
+├── libnss_db.so.2
+├── libnss_dns.so.2
+├── libnss_files.so.2
+├── libnss_hesiod.so.2
+├── libpcprofile.so
+├── libpthread.so.0
+├── libresolv.so.2
+├── librt.so.1
+├── libsanitizer.spec
+├── libssp.a
+├── libssp_nonshared.a
+├── libssp.so -> libssp.so.0.0.0
+├── libssp.so.0 -> libssp.so.0.0.0
+├── libssp.so.0.0.0
+├── libstdc++.a
+├── libstdc++fs.a
+├── libstdc++.so -> libstdc++.so.6.0.30
+├── libstdc++.so.6 -> libstdc++.so.6.0.30
+├── libstdc++.so.6.0.30
+├── libstdc++.so.6.0.30-gdb.py
+├── libsupc++.a
+├── libthread_db.so.1
+├── libubsan.a
+├── libubsan.so -> libubsan.so.1.0.0
+├── libubsan.so.1 -> libubsan.so.1.0.0
+├── libubsan.so.1.0.0
+└── libutil.so.1
+
+3 directories, 114 files
